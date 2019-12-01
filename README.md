@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+01 December 2019
 
 ### Project Title
-Replace the Project Title
+Project - Post Your Work on Git Hub
 
 ### Description
-Describe what your project is about and what it does
+ A project to demonstrate proficiency in using Git, and Git Hub remotely.  The Bikeshare Project is written in Python, and provides user with analysis of bikeshare data in Chicago, New York City and Washington.
 
 ### Files used
-Include the files used
+bikeshare_project.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Refresher on commands required
+https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html
 
+Udacity Git Styleguide for consistency
+https://udacity.github.io/git-styleguide/
