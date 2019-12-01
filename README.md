@@ -16,3 +16,6 @@ https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html
 
 Udacity Git Styleguide for consistency
 https://udacity.github.io/git-styleguide/
+
+### Project interrupted
+Project completion to be interrupted by a visit to https://animalland.com.au/
