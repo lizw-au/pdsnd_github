@@ -14,8 +14,14 @@ bikeshare_project.py
 Refresher on commands required
 https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html
 
+<<<<<<< HEAD
 Udacity Git Styleguide for consistency
 https://udacity.github.io/git-styleguide/
 
 ### Project interrupted
 Project completion to be interrupted by a visit to https://animalland.com.au/
+||||||| merged common ancestors
+=======
+How to list only local branches: 
+https://stackoverflow.com/questions/12370714/git-how-do-i-list-only-local-branches
+>>>>>>> refactoring
